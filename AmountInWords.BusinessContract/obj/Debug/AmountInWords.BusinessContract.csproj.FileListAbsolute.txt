@@ -1,0 +1,14 @@
+C:\Charith\Aus\Jobs\AKQA\TFNValidator\TFNValidator.BusinessContract\obj\Debug\AmountInWords.BusinessContract.csprojResolveAssemblyReference.cache
+C:\Charith\Aus\Jobs\AKQA\TFNValidator\TFNValidator.BusinessContract\bin\Debug\AmountInWords.BusinessContract.dll
+C:\Charith\Aus\Jobs\AKQA\TFNValidator\TFNValidator.BusinessContract\bin\Debug\AmountInWords.BusinessContract.pdb
+C:\Charith\Aus\Jobs\AKQA\TFNValidator\TFNValidator.BusinessContract\obj\Debug\AmountInWords.BusinessContract.dll
+C:\Charith\Aus\Jobs\AKQA\TFNValidator\TFNValidator.BusinessContract\obj\Debug\AmountInWords.BusinessContract.pdb
+C:\Charith\Aus\Jobs\AKQA\TFNValidator\TFNValidator.BusinessContract\bin\Debug\AmountInWords.DataModel.dll
+C:\Charith\Aus\Jobs\AKQA\TFNValidator\TFNValidator.BusinessContract\bin\Debug\AmountInWords.DataModel.pdb
+C:\Charith\Aus\Jobs\AKQA\AmountToWordConverter\AmountInWords.BusinessContract\bin\Debug\AmountInWords.BusinessContract.dll
+C:\Charith\Aus\Jobs\AKQA\AmountToWordConverter\AmountInWords.BusinessContract\bin\Debug\AmountInWords.BusinessContract.pdb
+C:\Charith\Aus\Jobs\AKQA\AmountToWordConverter\AmountInWords.BusinessContract\bin\Debug\AmountInWords.DataModel.dll
+C:\Charith\Aus\Jobs\AKQA\AmountToWordConverter\AmountInWords.BusinessContract\bin\Debug\AmountInWords.DataModel.pdb
+C:\Charith\Aus\Jobs\AKQA\AmountToWordConverter\AmountInWords.BusinessContract\obj\Debug\AmountInWords.BusinessContract.csprojResolveAssemblyReference.cache
+C:\Charith\Aus\Jobs\AKQA\AmountToWordConverter\AmountInWords.BusinessContract\obj\Debug\AmountInWords.BusinessContract.dll
+C:\Charith\Aus\Jobs\AKQA\AmountToWordConverter\AmountInWords.BusinessContract\obj\Debug\AmountInWords.BusinessContract.pdb

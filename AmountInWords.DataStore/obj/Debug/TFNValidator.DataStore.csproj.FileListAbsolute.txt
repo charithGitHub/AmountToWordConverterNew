@@ -1,0 +1,14 @@
+C:\Users\chrodrigo\documents\visual studio 2015\Projects\TFNValidator\TFNValidator.DataStore\bin\Debug\TFNValidator.DataStore.dll
+C:\Users\chrodrigo\documents\visual studio 2015\Projects\TFNValidator\TFNValidator.DataStore\bin\Debug\TFNValidator.DataStore.pdb
+C:\Users\chrodrigo\documents\visual studio 2015\Projects\TFNValidator\TFNValidator.DataStore\bin\Debug\EntityFramework.dll
+C:\Users\chrodrigo\documents\visual studio 2015\Projects\TFNValidator\TFNValidator.DataStore\bin\Debug\TFNValidator.DataModel.dll
+C:\Users\chrodrigo\documents\visual studio 2015\Projects\TFNValidator\TFNValidator.DataStore\bin\Debug\TFNValidator.Utilities.dll
+C:\Users\chrodrigo\documents\visual studio 2015\Projects\TFNValidator\TFNValidator.DataStore\bin\Debug\log4net.dll
+C:\Users\chrodrigo\documents\visual studio 2015\Projects\TFNValidator\TFNValidator.DataStore\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\chrodrigo\documents\visual studio 2015\Projects\TFNValidator\TFNValidator.DataStore\bin\Debug\TFNValidator.DataModel.pdb
+C:\Users\chrodrigo\documents\visual studio 2015\Projects\TFNValidator\TFNValidator.DataStore\bin\Debug\TFNValidator.Utilities.pdb
+C:\Users\chrodrigo\documents\visual studio 2015\Projects\TFNValidator\TFNValidator.DataStore\bin\Debug\log4net.xml
+C:\Users\chrodrigo\documents\visual studio 2015\Projects\TFNValidator\TFNValidator.DataStore\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\chrodrigo\documents\visual studio 2015\Projects\TFNValidator\TFNValidator.DataStore\obj\Debug\TFNValidator.DataStore.csprojResolveAssemblyReference.cache
+C:\Users\chrodrigo\documents\visual studio 2015\Projects\TFNValidator\TFNValidator.DataStore\obj\Debug\TFNValidator.DataStore.dll
+C:\Users\chrodrigo\documents\visual studio 2015\Projects\TFNValidator\TFNValidator.DataStore\obj\Debug\TFNValidator.DataStore.pdb

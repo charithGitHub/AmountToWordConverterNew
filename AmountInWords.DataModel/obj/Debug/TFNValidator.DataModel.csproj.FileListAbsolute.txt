@@ -1,0 +1,5 @@
+C:\Users\chrodrigo\documents\visual studio 2015\Projects\TFNValidator\TFNValidator.DataModel\bin\Debug\TFNValidator.DataModel.dll
+C:\Users\chrodrigo\documents\visual studio 2015\Projects\TFNValidator\TFNValidator.DataModel\bin\Debug\TFNValidator.DataModel.pdb
+C:\Users\chrodrigo\documents\visual studio 2015\Projects\TFNValidator\TFNValidator.DataModel\obj\Debug\TFNValidator.DataModel.csprojResolveAssemblyReference.cache
+C:\Users\chrodrigo\documents\visual studio 2015\Projects\TFNValidator\TFNValidator.DataModel\obj\Debug\TFNValidator.DataModel.dll
+C:\Users\chrodrigo\documents\visual studio 2015\Projects\TFNValidator\TFNValidator.DataModel\obj\Debug\TFNValidator.DataModel.pdb

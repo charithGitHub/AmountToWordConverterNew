@@ -1,0 +1,7 @@
+C:\Users\chrodrigo\documents\visual studio 2015\Projects\TFNValidator\TFNValidator.DataInterfaces\bin\Debug\TFNValidator.DataInterfaces.dll
+C:\Users\chrodrigo\documents\visual studio 2015\Projects\TFNValidator\TFNValidator.DataInterfaces\bin\Debug\TFNValidator.DataInterfaces.pdb
+C:\Users\chrodrigo\documents\visual studio 2015\Projects\TFNValidator\TFNValidator.DataInterfaces\bin\Debug\TFNValidator.DataModel.dll
+C:\Users\chrodrigo\documents\visual studio 2015\Projects\TFNValidator\TFNValidator.DataInterfaces\bin\Debug\TFNValidator.DataModel.pdb
+C:\Users\chrodrigo\documents\visual studio 2015\Projects\TFNValidator\TFNValidator.DataInterfaces\obj\Debug\TFNValidator.DataInterfaces.csprojResolveAssemblyReference.cache
+C:\Users\chrodrigo\documents\visual studio 2015\Projects\TFNValidator\TFNValidator.DataInterfaces\obj\Debug\TFNValidator.DataInterfaces.dll
+C:\Users\chrodrigo\documents\visual studio 2015\Projects\TFNValidator\TFNValidator.DataInterfaces\obj\Debug\TFNValidator.DataInterfaces.pdb

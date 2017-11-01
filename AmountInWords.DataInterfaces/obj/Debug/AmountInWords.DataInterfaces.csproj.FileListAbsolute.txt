@@ -1,0 +1,14 @@
+C:\Charith\Aus\Jobs\AKQA\TFNValidator\TFNValidator.DataInterfaces\obj\Debug\AmountInWords.DataInterfaces.csprojResolveAssemblyReference.cache
+C:\Charith\Aus\Jobs\AKQA\TFNValidator\TFNValidator.DataInterfaces\bin\Debug\AmountInWords.DataInterfaces.dll
+C:\Charith\Aus\Jobs\AKQA\TFNValidator\TFNValidator.DataInterfaces\bin\Debug\AmountInWords.DataInterfaces.pdb
+C:\Charith\Aus\Jobs\AKQA\TFNValidator\TFNValidator.DataInterfaces\bin\Debug\AmountInWords.DataModel.dll
+C:\Charith\Aus\Jobs\AKQA\TFNValidator\TFNValidator.DataInterfaces\bin\Debug\AmountInWords.DataModel.pdb
+C:\Charith\Aus\Jobs\AKQA\TFNValidator\TFNValidator.DataInterfaces\obj\Debug\AmountInWords.DataInterfaces.dll
+C:\Charith\Aus\Jobs\AKQA\TFNValidator\TFNValidator.DataInterfaces\obj\Debug\AmountInWords.DataInterfaces.pdb
+C:\Charith\Aus\Jobs\AKQA\AmountToWordConverter\AmountInWords.DataInterfaces\bin\Debug\AmountInWords.DataInterfaces.dll
+C:\Charith\Aus\Jobs\AKQA\AmountToWordConverter\AmountInWords.DataInterfaces\bin\Debug\AmountInWords.DataInterfaces.pdb
+C:\Charith\Aus\Jobs\AKQA\AmountToWordConverter\AmountInWords.DataInterfaces\bin\Debug\AmountInWords.DataModel.dll
+C:\Charith\Aus\Jobs\AKQA\AmountToWordConverter\AmountInWords.DataInterfaces\bin\Debug\AmountInWords.DataModel.pdb
+C:\Charith\Aus\Jobs\AKQA\AmountToWordConverter\AmountInWords.DataInterfaces\obj\Debug\AmountInWords.DataInterfaces.csprojResolveAssemblyReference.cache
+C:\Charith\Aus\Jobs\AKQA\AmountToWordConverter\AmountInWords.DataInterfaces\obj\Debug\AmountInWords.DataInterfaces.dll
+C:\Charith\Aus\Jobs\AKQA\AmountToWordConverter\AmountInWords.DataInterfaces\obj\Debug\AmountInWords.DataInterfaces.pdb

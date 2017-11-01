@@ -1,0 +1,62 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+	<meta charset="utf-8" />    
+    <link href="Content/bootstrap.min.css" rel="stylesheet" />
+    <link href="Content/Site.css" rel="stylesheet" />
+    <script src="Scripts/jquery-1.10.2.min.js"></script>
+    <script src="Scripts/bootstrap.min.js"></script>    
+    <script src="Scripts/Utils.js"></script>
+    <script src="Scripts/AmountToWordConverter.js"></script>
+</head>
+<body>
+    <div class="container">
+        <form id="tfn_validator">
+            <h2>Amount to Words Converter</h2>
+            <div class="form-group">
+                <div class="row">
+                    <div class="col-lg-5">
+                        <label for="name" class="sr-only">Name</label>
+                        <input type="text" id="name" size="40" class="form-control input-lg" placeholder="Enter the Name" autocomplete="off" required="" autofocus="">
+                    </div>
+                    <div class="col-lg-3">
+                        <label for="amount" class="sr-only">Amount</label>
+                        <input type="text" id="amount" size="20" class="form-control input-lg" placeholder="Enter the Amount" autocomplete="off" required="" autofocus="">
+                    </div>
+                    <div class="col-lg-2">
+                        <button class="btn btn-lg btn-primary btn-block" type="submit">Convert</button>
+                    </div>
+                </div>
+                <div id="output" class="row outputgrid" style="display: none;">
+                    <div class="row">
+                        <div class="col-lg-5 borderright">
+                            <b>Input</b>
+                        </div>
+                        <div class="col-lg-5">
+                            <b>Output</b>
+                        </div>
+                    </div>
+                    <div class="row bordertop">
+                        <div id="inputName" class="col-lg-5 borderright">
+                            Charith
+                        </div>
+                        <div id="outputName" class="col-lg-5">
+                            Charith
+                        </div>
+                    </div>
+                    <div class="row bordertop">
+                        <div id="inputAmount" class="col-lg-5 borderright">
+                            <b>100</b>
+                        </div>
+                        <div id="outputAmount" class="col-lg-5">
+                            Hundred
+                        </div>
+                    </div>
+                </div>
+                <p id="result" style="display: none;"></p>
+            </div>
+        </form>
+    </div>
+</body>
+</html>

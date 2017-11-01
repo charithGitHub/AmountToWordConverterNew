@@ -1,0 +1,14 @@
+C:\Users\chrodrigo\documents\visual studio 2015\Projects\TFNValidator\TFNValidator.Utilities\bin\Debug\TFNValidator.Utilities.dll.config
+C:\Users\chrodrigo\documents\visual studio 2015\Projects\TFNValidator\TFNValidator.Utilities\bin\Debug\TFNValidator.Utilities.dll
+C:\Users\chrodrigo\documents\visual studio 2015\Projects\TFNValidator\TFNValidator.Utilities\bin\Debug\TFNValidator.Utilities.pdb
+C:\Users\chrodrigo\documents\visual studio 2015\Projects\TFNValidator\TFNValidator.Utilities\bin\Debug\log4net.dll
+C:\Users\chrodrigo\documents\visual studio 2015\Projects\TFNValidator\TFNValidator.Utilities\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\chrodrigo\documents\visual studio 2015\Projects\TFNValidator\TFNValidator.Utilities\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\chrodrigo\documents\visual studio 2015\Projects\TFNValidator\TFNValidator.Utilities\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\chrodrigo\documents\visual studio 2015\Projects\TFNValidator\TFNValidator.Utilities\bin\Debug\log4net.xml
+C:\Users\chrodrigo\documents\visual studio 2015\Projects\TFNValidator\TFNValidator.Utilities\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\chrodrigo\documents\visual studio 2015\Projects\TFNValidator\TFNValidator.Utilities\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\chrodrigo\documents\visual studio 2015\Projects\TFNValidator\TFNValidator.Utilities\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\chrodrigo\documents\visual studio 2015\Projects\TFNValidator\TFNValidator.Utilities\obj\Debug\TFNValidator.Utilities.csprojResolveAssemblyReference.cache
+C:\Users\chrodrigo\documents\visual studio 2015\Projects\TFNValidator\TFNValidator.Utilities\obj\Debug\TFNValidator.Utilities.dll
+C:\Users\chrodrigo\documents\visual studio 2015\Projects\TFNValidator\TFNValidator.Utilities\obj\Debug\TFNValidator.Utilities.pdb
